@@ -204,7 +204,7 @@ public class deletepage extends javax.swing.JFrame {
         jLabel9.setForeground(new java.awt.Color(0, 102, 255));
         jLabel9.setText("DELETE QUESTION");
 
-        jLabel10.setText("jLabel7");
+        jLabel10.setText("LOGO");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);

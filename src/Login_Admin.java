@@ -86,7 +86,7 @@ public class Login_Admin extends javax.swing.JFrame {
         jLabel5.setForeground(new java.awt.Color(51, 51, 255));
         jLabel5.setText("POWERED BY ACM");
 
-        jLabel1.setText("jLabel1");
+        jLabel1.setText("LOGO");
 
         kGradientPanel2.setPreferredSize(new java.awt.Dimension(0, 3));
 

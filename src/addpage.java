@@ -209,7 +209,7 @@ public class addpage extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(0, 102, 255));
         jLabel6.setText("ADD QUESTION");
 
-        jLabel7.setText("jLabel7");
+        jLabel7.setText("LOGO");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);

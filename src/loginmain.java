@@ -79,11 +79,11 @@ public class loginmain extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(0, 102, 255));
         jLabel4.setText("ORACLE");
 
-        jLabel12.setText("jLabel12");
+        jLabel12.setText("LOGO");
 
-        jLabel13.setText("jLabel13");
+        jLabel13.setText("ICON");
 
-        jLabel14.setText("jLabel14");
+        jLabel14.setText("ICON");
 
         kGradientPanel2.setPreferredSize(new java.awt.Dimension(0, 3));
 
@@ -247,7 +247,7 @@ public class loginmain extends javax.swing.JFrame {
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
         jLabel7.setText("ORACLE");
 
-        jLabel10.setText("jLabel10");
+        jLabel10.setText("LOGO");
 
         javax.swing.GroupLayout kGradientPanel1Layout = new javax.swing.GroupLayout(kGradientPanel1);
         kGradientPanel1.setLayout(kGradientPanel1Layout);
